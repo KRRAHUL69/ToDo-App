@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card {
+    background-color: darkmagenta;
+    align-items: center;
+
+}
+
+.card:hover {
+    background-color: darkred;
+}
